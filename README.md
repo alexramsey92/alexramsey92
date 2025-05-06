@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alexander Ramsey 👋
 
-<!--
-**alexramsey92/alexramsey92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a systems engineer, builder, and software entrepreneur — passionate about clean infrastructure, smart business tools, and making the web work harder for real people.
 
-Here are some ideas to get you started:
+🔧 Currently building: **[ClientBridge.app](https://clientbridge.app)** – a client portal platform for small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Also working on: [Old Line Cyber](https://oldlinecyber.com) — cybersecurity services with a Maryland edge.
+
+🧠 I’m skilled in:
+- Linux, Apache, PHP, MySQL (LAMP)
+- Laravel, Docker, Kubernetes, GitOps
+- Infrastructure automation (Puppet, BigFix)
+- Home and commercial construction, renovation, and smart home integration
+
+🐺 Dog dad to **Sky**, my white German Shepherd and best project manager.
+
+📫 Reach me:  
+- alex@oldlinecyber.com
+- [alexanderramsey.com](https://alexanderramsey.com)
+- [oldlinecyber.com](https://oldlinecyber.com)
