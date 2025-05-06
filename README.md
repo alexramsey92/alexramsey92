@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Ramsey 👋
+# Hi, I'm Alexander Ramsey
 
 I'm a Full-Time Linux Systems Engineer at The Frederick National Laboratory for Cancer Research. I'm a passionate maker, builder, and software entrepreneur. I love to build things, fix things, make things, and learn the things.
 
