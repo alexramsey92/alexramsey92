@@ -1,6 +1,6 @@
 # Hi, I'm Alexander Ramsey
 
-I'm a Full-Time Linux Systems Engineer, a passionate maker, builder, and software entrepreneur. I love to build, fix, and learn about software, construction, IoT, tools, and more. I'm a bit of a swiss army knife of technology and construction.
+I'm a Full-Time Linux Systems Engineer, a passionate maker, builder, and software entrepreneur. I love to build, fix, and learn about software, construction, IoT, tools, and more. I'm a swiss army knife of technology and construction.
 
 🔧 Currently building:  
 - **[ClientBridge.app](https://clientbridge.app)** – a secure client portal platform for small businesses  
@@ -16,6 +16,8 @@ I'm a Full-Time Linux Systems Engineer, a passionate maker, builder, and softwar
 - Leadership and project management, as a certified scrum product owner
 
 🐺 Dog dad to **Sky**, my white German Shepherd and best pawject manager.
+
+There is always the right tool for the job.
 
 📫 Reach me:  
 - alex@oldlinecyber.com
