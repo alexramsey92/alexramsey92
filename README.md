@@ -2,13 +2,11 @@
 
 🔧 Currently building:  
 - **[ClientBridge.app](https://clientbridge.app)**
-A powerful liteweight sqlite (or mysql) based CRM+CMS (w/hooks to Google and Intuit) hosted on Laravel Cloud. Designed to accelerate American Small Business. Open source + Pro plans coming Spring 2026.
+A web content delivery platform designed to accelerate business operations. Currently closed source and early access.
 
-🛠️ Also providing Cyber Security Consulting Services to Maryland, DC, and Virginia businesses at: [Old Line Cyber](https://oldlinecyber.com)
+- **[AI Web Design Workbench](https://github.com/alexramsey92/ai-web-design-workbench)**
+An AI-powered tool for web design and development. Open source and free!
 
 There is always the right tool for the job.
 
-📫 Reach me:  
-- alex@oldlinecyber.com
 - [alexanderramsey.com](https://alexanderramsey.com)
-- [oldlinecyber.com](https://oldlinecyber.com)
