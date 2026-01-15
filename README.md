@@ -1,12 +1,12 @@
 # Hi, I'm Alexander Ramsey
 
-🔧 Currently building:  
-- **[ClientBridge.app](https://clientbridge.app)**
-A web content delivery platform designed to accelerate business operations. Currently closed source and early access.
-
+🔧 Currently I am building:
 - **[AI Web Design Workbench](https://github.com/alexramsey92/ai-web-design-workbench)**
 An AI-powered tool for web design and development. Open source and free!
 
-There is always the right tool for the job.
+- **[CLIENTBRIDGE.app](https://clientbridge.app)** and **[SMBGEN.com](https://smbgen.com)**
+AI-enabled CMS+CRM. Currently closed source and early access only.
+
+There is always the right tool for the job! Thanks for stopping by.
 
 - [alexanderramsey.com](https://alexanderramsey.com)
