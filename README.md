@@ -1,7 +1,7 @@
 # Hi, I'm Alexander Ramsey
 
 🔧 Currently I am building:
-- **[AI Web Design Workbench](https://github.com/alexramsey92/ai-web-design-workbench)**
+- **[AI Web Design Workbench](https://ai-web-design-workbench.laravel.cloud/workbench)**
 An AI-powered tool for web design and development. Open source and free!
 
 - **[CLIENTBRIDGE.app](https://clientbridge.app)** and **[SMBGEN.com](https://smbgen.com)**
