@@ -4,7 +4,7 @@ Tools / kits:
 - **[AI Web Design Workbench](https://ai-web-design-workbench.laravel.cloud/workbench)**
 An AI-powered tool for web design and development. Open source and free!
 
-- **[Laravel Cloud Starter - Google OAuth](https://alexramsey92.github.io/laravel-cloud-starter-google-oauth/)**
+- **[Laravel Cloud Starter - Google OAuth](https://alexramsey92.github.io/laravel-cloud-starter-google-oauth/)** - A starter kit for easy Laravel cloud deployment including bonus Google Oauth. Uses livewire and tailwind.
 
 Pro web presence solutions:
 - **[CLIENTBRIDGE.app](https://clientbridge.app)** and **[SMBGEN.com](https://smbgen.com)**
