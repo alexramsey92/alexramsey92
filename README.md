@@ -6,7 +6,11 @@ Full time, I work on Linux web administration at NCI/NIH, supporting biomedical 
 
 Outside of full time, I am building Laravel based web presence solutions including Payment, CRM, CMS, Booking, and AI Product Platforming at [smbgen](https://smbgen.com) 
 
+---
+
 Contact: [alexanderramsey.com](https://alexanderramsey.com)
+
+---
 
 Recent Projects:
 
