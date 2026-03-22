@@ -1,6 +1,6 @@
 ### Alexander Ramsey
 
-Hey, thanks for stopping by! I'm into Webby things, full stack development, the pursuit of SaaS foundership. I enjoy trying new languages, frameworks, and applying technologies to solving real world problems.
+Hey, thanks for stopping by! I'm into Webby things, full stack development, the pursuit of SaaS foundership. I enjoy applying technologies to solving real world problems. 
 
 Full time, I work on Linux web administration at NCI/NIH, supporting biomedical research computing infrastructure and public facing production level applications.
 
