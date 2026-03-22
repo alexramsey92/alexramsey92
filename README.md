@@ -2,7 +2,7 @@
 
 Hey, thanks for stopping by! I'm into Webby things, full stack development, the pursuit of SaaS foundership. I enjoy trying new languages, frameworks, and applying technologies to solving real world problems.
 
-Full time, I work on Linux web problems at NCI/NIH
+Full time, I work on Linux web administration at NCI/NIH
 
 Outside of full time, I am building some interesting web presence solutions including Payment, CRM, CMS, Booking, and AI Product Platforming at [smbgen](https://smbgen.com) 
 
