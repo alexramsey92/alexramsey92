@@ -4,7 +4,7 @@ Hey, thanks for stopping by! I'm into Webby things, full stack development, the 
 
 Full time, I work on Linux web administration at NCI/NIH
 
-Outside of full time, I am building some interesting web presence solutions including Payment, CRM, CMS, Booking, and AI Product Platforming at [smbgen](https://smbgen.com) 
+Outside of full time, I am building Laravel based web presence solutions including Payment, CRM, CMS, Booking, and AI Product Platforming at [smbgen](https://smbgen.com) 
 
 Contact: [alexanderramsey.com](https://alexanderramsey.com)
 
